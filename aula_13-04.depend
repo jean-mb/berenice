@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1649893749 source:c:\users\jeanf\onedrive\햞ea de trabalho\hub\uniamerica\eng_software\aulas\aula_13-04\exercicios.c
+	"exercicios.h"
+
+1649988615 c:\users\jeanf\onedrive\햞ea de trabalho\hub\uniamerica\eng_software\aulas\aula_13-04\exercicios.h
+	<windows.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+
+1650321375 source:c:\users\jeanf\onedrive\햞ea de trabalho\hub\uniamerica\eng_software\aulas\aula_13-04\main.c
+	"exercicios.h"
+
+1649975072 source:c:\users\jeanf\onedrive\햞ea de trabalho\hub\uniamerica\eng_software\aulas\aula_13-04\menu.c
+	"exercicios.h"
+
